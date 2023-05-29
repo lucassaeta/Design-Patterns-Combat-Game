@@ -1,4 +1,4 @@
-# Juego de Combate fundamentado en Patrones de Diseño ⚙️
+# Juego de Combate con Patrones de Diseño ⚙️
 
 DESCRIPCIÓN DEL PROYECTO: Una aplicación la cual consta de ser un juego de combates entre diferentes criaturas. Se buscó implementar todos los patrones de diseño aprendidos en la asignatura de "Diseño de Software" en segundo de carrera. 
 
